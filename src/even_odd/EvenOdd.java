@@ -2,7 +2,7 @@ package even_odd;
 
 import java.util.Scanner;
 
-public class Main {
+public class EvenOdd {
     public static void main(String[] args) {
 
 //        용준이와 봉찬이는 공기 놀이로 내기를 하였다.
