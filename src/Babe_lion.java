@@ -43,6 +43,6 @@ public class Babe_lion {
 //        System.out.printf("6번에는 %d가 들어있습니다.\n", arr1[6]);
 //        System.out.printf("7번에는 %d가 들어있습니다.\n", arr1[7]);
 //        System.out.println();
-        
+
     }
 }
