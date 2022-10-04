@@ -14,6 +14,11 @@ public class Test1 {
         }
         System.out.println();
 
+        // 2,4,6,8,10 을 출력(2씩 증가) _ 강사님
+        for(int i=1; i<=5; i+=1) {
+            System.out.print(i*2);
+        }
+        System.out.println();
 
     }
 }
